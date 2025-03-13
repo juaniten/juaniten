@@ -7,4 +7,4 @@ I'm Juan, a curiosity-driven software engineer.
 * 🌱 Learning Go in 2025.
 * 📚 Also a musicologist, an acoustics engineer and half a physicist.
 
-🚀 Open for open source contributions & job opportunities... Feel free to `ping` me!
+🚀 Open for open source contributions & job opportunities... Feel free to `ping` me! 
